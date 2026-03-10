@@ -1,0 +1,1 @@
+An AVI (Audio Video Interleave) file is a file saved in a multimedia container format created by Microsoft. The AVI format is based on the Resource Interchange File Format (RIFF). The AVI format is supported by various video players.
